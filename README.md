@@ -1,0 +1,2 @@
+# statics
+Host Static FIles
